@@ -1,0 +1,6 @@
+package org.tnsif.acc.c2tc.interfacedemo;
+
+public interface MusicPlayer {
+	void playMusic();
+
+}
